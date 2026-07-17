@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/shivadityass/SSA  Professional/Amrita/Code Forces/Cplusequals_1368A_800/main'
+relocations:
+  - { offset: 0x45E3, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x31EA3, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x4704, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_main.cpp, symObjAddr: 0x18C, symBinAddr: 0x1000007DC, symSize: 0x14 }
+  - { offset: 0x471B, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x150, symBinAddr: 0x1000007A0, symSize: 0x3C }
+  - { offset: 0x4739, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x38, symBinAddr: 0x100000688, symSize: 0x118 }
+  - { offset: 0x47D5, size: 0x8, addend: 0x0, symName: __ZSt3maxIiERKT_S2_S2_, symObjAddr: 0x0, symBinAddr: 0x100000650, symSize: 0x38 }
+...
