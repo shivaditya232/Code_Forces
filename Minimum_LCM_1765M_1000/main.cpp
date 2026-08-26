@@ -1,10 +1,11 @@
 #include <iostream>
+
 using namespace std;
 int main()
 {
-	long long t;
-	cin >> t;
-	while (t--)
+	long long test;
+	cin >> test;
+	while (test--)
 	{
 		long long n;
 		cin >> n;
